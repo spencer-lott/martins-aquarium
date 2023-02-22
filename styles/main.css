@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(58, 182, 182);
+}
+article {
+    border: 1px black solid;
+    font-size: 1.75em;
+    margin: 1em 1em;
+    padding: 1em;
+    
+}
+
+aside {
+    display: flex;
+    border: 1px black solid;
+    font-size: 1.75em;
+    margin: 1em 1em;
+    padding: 1em;
+   flex-direction: column;
+  
+
+}
+
+#mainContainer {
+    display: flex;
+}
+
+img {
+    width: 33%;
+    size: auto;
+}
+
+.fishies{
+    display: flex;
+    flex-wrap: wrap;
+}
+.locations{
+    display: flex;
+    flex-wrap: wrap;
+}
+.care{
+    display: flex;
+    flex-wrap: wrap;
+}
+.wisdoms{
+    
+}
+
